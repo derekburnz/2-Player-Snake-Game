@@ -10,7 +10,5 @@ Player 2
 use wsad to move snake
 
 
-Screenshots
-
 ![Title screen](https://raw.githubusercontent.com/derekburnz/2-Player-Snake-Game/main/SC1.png)
 ![Play screen](https://raw.githubusercontent.com/derekburnz/2-Player-Snake-Game/main/SC2.png)
