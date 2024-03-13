@@ -8,3 +8,6 @@ use arrow keys to move snake
 
 Player 2
 use wsad to move snake
+
+
+Screenshots
